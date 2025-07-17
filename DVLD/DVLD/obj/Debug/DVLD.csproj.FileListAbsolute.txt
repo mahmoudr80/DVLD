@@ -1,0 +1,34 @@
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\bin\Debug\DVLD.exe.config
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\bin\Debug\DVLD.exe
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\bin\Debug\DVLD.pdb
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.Admin.Controller.AdminDashboardController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.Applicant.Controller.ApplicantDashboardController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.Applicant.Controller.RegisterController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.Common.Controller.LoginController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.frmStart.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.exe
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.pdb
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.exe.config
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\bin\Debug\DVLD.exe.config
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\bin\Debug\DVLD.exe
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\bin\Debug\DVLD.pdb
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.exe.config
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.Admin.Controller.AdminDashboardController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.Applicant.Controller.ApplicantDashboardController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.Applicant.Controller.RegisterController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.Common.Controller.LoginController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.frmStart.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.exe
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD - Copy\DVLD\obj\Debug\DVLD.pdb
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.User_Controllers.ctrlPerson.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.Admin.Controller.AddPersonController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.Admin.Controller.DeletePersonController.resources
+D:\My_course\19-Full Real Project\Project Version 2.0\Solution\DVLD\DVLD\obj\Debug\DVLD.Admin.Controller.UpdatePersonController.resources
